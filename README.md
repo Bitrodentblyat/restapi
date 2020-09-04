@@ -1,2 +1,2 @@
 # restapi
-First REST API Project. Code to retrieve student data.
+My first REST API Project. Code to retrieve student data.
